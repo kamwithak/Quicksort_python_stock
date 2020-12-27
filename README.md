@@ -1,3 +1,3 @@
 # Quicksort Historical-Prices (Stocks/Equities) - Python
 
-Forked from franmer, optimal price sorting algo: O(n*log(n))
+Forked from franmer/Quicksort_python_stock : optimal price sorting algo, O(n*log(n))
